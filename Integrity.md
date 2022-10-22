@@ -3,7 +3,6 @@ title: "Message Integrity"
 date: 2022-10-22T14:15:02-04:00
 description: "Methods to protect message integrity online"
 author: "Baichuan Li"
-draft: true
 ---
 
 ## Threat Model
